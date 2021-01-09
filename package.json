@@ -1,0 +1,24 @@
+{
+   "name": "css-grid-cards",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/wdavidcalsin/css-grid-card.git"
+   },
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/wdavidcalsin/css-grid-card/issues"
+   },
+   "homepage": "https://github.com/wdavidcalsin/css-grid-card#readme",
+   "devDependencies": {
+      "browser-sync": "^2.26.13",
+      "gulp": "^4.0.2",
+      "gulp-sass": "^4.1.0"
+   }
+}
